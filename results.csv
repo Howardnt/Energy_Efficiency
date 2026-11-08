@@ -1,0 +1,3 @@
+run #,updates,wall_seconds,cpu_seconds,battery_start_pct,battery_end_pct,result,rate_per_sec
+1,45075,360.0,994.1,100,100,PASS,120
+2,45075,360.0,945.0,100,100,PASS,120
